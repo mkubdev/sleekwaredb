@@ -41,9 +41,9 @@
   version "1.2.1"
   resolved "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz"
 
-"@next/env@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.npmjs.org/@next/env/-/env-12.2.0.tgz"
+"@next/env@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/env/-/env-12.2.3.tgz#64f210e74c137d3d9feea738795b055a7f8aebe2"
 
 "@next/eslint-plugin-next@12.2.0":
   version "12.2.0"
@@ -51,57 +51,57 @@
   dependencies:
     glob "7.1.7"
 
-"@next/swc-android-arm-eabi@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-android-arm-eabi/-/swc-android-arm-eabi-12.2.0.tgz#f116756e668b267de84b76f068d267a12f18eb22"
+"@next/swc-android-arm-eabi@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-android-arm-eabi/-/swc-android-arm-eabi-12.2.3.tgz#91388c8ec117d59ee80d2c1d4dc65fdfd267d2d4"
 
-"@next/swc-android-arm64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-android-arm64/-/swc-android-arm64-12.2.0.tgz#cbd9e329cef386271d4e746c08416b5d69342c24"
+"@next/swc-android-arm64@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-android-arm64/-/swc-android-arm64-12.2.3.tgz#9be33553861f6494616b910a23abd5a1b0d7fb4b"
 
-"@next/swc-darwin-arm64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.2.0.tgz#3473889157ba70b30ccdd4f59c46232d841744e2"
+"@next/swc-darwin-arm64@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.2.3.tgz#ce1a5a7320936b2644b765ace3283e5d1676b6a0"
 
-"@next/swc-darwin-x64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-12.2.0.tgz#b25198c3ef4c906000af49e4787a757965f760bb"
+"@next/swc-darwin-x64@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-12.2.3.tgz#f70ce07016501c6f823035bc67296b8f80201145"
 
-"@next/swc-freebsd-x64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-freebsd-x64/-/swc-freebsd-x64-12.2.0.tgz#78e2213f8b703be0fef23a49507779b4a9842929"
+"@next/swc-freebsd-x64@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-freebsd-x64/-/swc-freebsd-x64-12.2.3.tgz#ccc6fa4588dadec85458091aa19c17bc3e99a10d"
 
-"@next/swc-linux-arm-gnueabihf@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.2.0.tgz#80a4baf0ba699357e7420e2dea998908dcef5055"
+"@next/swc-linux-arm-gnueabihf@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.2.3.tgz#d7a481d3ede14dee85707d0807b4a05cd2300950"
 
-"@next/swc-linux-arm64-gnu@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.2.0.tgz#134a42ddea804d6bf04761607f774432c3126de6"
+"@next/swc-linux-arm64-gnu@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.2.3.tgz#6d105c971cc0957c25563aa98af475291b4cd8aa"
 
-"@next/swc-linux-arm64-musl@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.2.0.tgz#c781ac642ad35e0578d8a8d19c638b0f31c1a334"
+"@next/swc-linux-arm64-musl@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.2.3.tgz#bebfe490130e3cb8746a03d35a5a9e23ac0e6f9b"
 
-"@next/swc-linux-x64-gnu@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.2.0.tgz"
+"@next/swc-linux-x64-gnu@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.2.3.tgz#84a3d99f9d656fbc139f3a19f9b1baf73877d18f"
 
-"@next/swc-linux-x64-musl@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.2.0.tgz"
+"@next/swc-linux-x64-musl@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.2.3.tgz#a283431f8c6c830b4bd61147094f150ea7deeb6e"
 
-"@next/swc-win32-arm64-msvc@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.2.0.tgz#3063f850c9db7b774c69e9be74ad59986cf6fc34"
+"@next/swc-win32-arm64-msvc@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.2.3.tgz#bab9ba8736d81db128badb70024268469eaa9b34"
 
-"@next/swc-win32-ia32-msvc@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.2.0.tgz#001bbadf3d2cf006c4991f728d1d23e4d5c0e7cc"
+"@next/swc-win32-ia32-msvc@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.2.3.tgz#feea6ada1ba3e897f39ded9f2de5006f4e1c928b"
 
-"@next/swc-win32-x64-msvc@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.2.0.tgz#9f66664f9122ca555b96a5f2fc6e2af677bf801b"
+"@next/swc-win32-x64-msvc@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.2.3.tgz#403e1575a84c31cbd7f3c0ecd51b61bc25b7f808"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -125,9 +125,9 @@
   version "1.1.3"
   resolved "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.1.3.tgz"
 
-"@swc/helpers@0.4.2":
-  version "0.4.2"
-  resolved "https://registry.npmjs.org/@swc/helpers/-/helpers-0.4.2.tgz"
+"@swc/helpers@0.4.3":
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/@swc/helpers/-/helpers-0.4.3.tgz#16593dfc248c53b699d4b5026040f88ddb497012"
   dependencies:
     tslib "^2.4.0"
 
@@ -1177,7 +1177,7 @@ ms@2.1.2, ms@^2.1.1:
   version "2.1.2"
   resolved "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz"
 
-nanoid@^3.1.30, nanoid@^3.3.4:
+nanoid@^3.3.4:
   version "3.3.4"
   resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.4.tgz"
 
@@ -1186,30 +1186,30 @@ natural-compare@^1.4.0:
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
   integrity "sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc= sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw=="
 
-next@12.2.0:
-  version "12.2.0"
-  resolved "https://registry.npmjs.org/next/-/next-12.2.0.tgz"
+next@12.2.3:
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/next/-/next-12.2.3.tgz#c29d235ce480e589894dfab3120dade25d015a22"
   dependencies:
-    "@next/env" "12.2.0"
-    "@swc/helpers" "0.4.2"
+    "@next/env" "12.2.3"
+    "@swc/helpers" "0.4.3"
     caniuse-lite "^1.0.30001332"
-    postcss "8.4.5"
+    postcss "8.4.14"
     styled-jsx "5.0.2"
-    use-sync-external-store "1.1.0"
+    use-sync-external-store "1.2.0"
   optionalDependencies:
-    "@next/swc-android-arm-eabi" "12.2.0"
-    "@next/swc-android-arm64" "12.2.0"
-    "@next/swc-darwin-arm64" "12.2.0"
-    "@next/swc-darwin-x64" "12.2.0"
-    "@next/swc-freebsd-x64" "12.2.0"
-    "@next/swc-linux-arm-gnueabihf" "12.2.0"
-    "@next/swc-linux-arm64-gnu" "12.2.0"
-    "@next/swc-linux-arm64-musl" "12.2.0"
-    "@next/swc-linux-x64-gnu" "12.2.0"
-    "@next/swc-linux-x64-musl" "12.2.0"
-    "@next/swc-win32-arm64-msvc" "12.2.0"
-    "@next/swc-win32-ia32-msvc" "12.2.0"
-    "@next/swc-win32-x64-msvc" "12.2.0"
+    "@next/swc-android-arm-eabi" "12.2.3"
+    "@next/swc-android-arm64" "12.2.3"
+    "@next/swc-darwin-arm64" "12.2.3"
+    "@next/swc-darwin-x64" "12.2.3"
+    "@next/swc-freebsd-x64" "12.2.3"
+    "@next/swc-linux-arm-gnueabihf" "12.2.3"
+    "@next/swc-linux-arm64-gnu" "12.2.3"
+    "@next/swc-linux-arm64-musl" "12.2.3"
+    "@next/swc-linux-x64-gnu" "12.2.3"
+    "@next/swc-linux-x64-musl" "12.2.3"
+    "@next/swc-win32-arm64-msvc" "12.2.3"
+    "@next/swc-win32-ia32-msvc" "12.2.3"
+    "@next/swc-win32-x64-msvc" "12.2.3"
 
 node-releases@^2.0.5:
   version "2.0.5"
@@ -1394,15 +1394,7 @@ postcss-value-parser@^4.0.0, postcss-value-parser@^4.2.0:
   version "4.2.0"
   resolved "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
 
-postcss@8.4.5:
-  version "8.4.5"
-  resolved "https://registry.npmjs.org/postcss/-/postcss-8.4.5.tgz"
-  dependencies:
-    nanoid "^3.1.30"
-    picocolors "^1.0.0"
-    source-map-js "^1.0.1"
-
-postcss@^8.4.14:
+postcss@8.4.14, postcss@^8.4.14:
   version "8.4.14"
   resolved "https://registry.npmjs.org/postcss/-/postcss-8.4.14.tgz"
   dependencies:
@@ -1558,7 +1550,7 @@ slash@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmjs.org/slash/-/slash-3.0.0.tgz"
 
-source-map-js@^1.0.1, source-map-js@^1.0.2:
+source-map-js@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/source-map-js/-/source-map-js-1.0.2.tgz"
 
@@ -1711,9 +1703,9 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-use-sync-external-store@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.npmjs.org/use-sync-external-store/-/use-sync-external-store-1.1.0.tgz"
+use-sync-external-store@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/use-sync-external-store/-/use-sync-external-store-1.2.0.tgz#7dbefd6ef3fe4e767a0cf5d7287aacfb5846928a"
 
 util-deprecate@^1.0.2:
   version "1.0.2"
